@@ -1,5 +1,25 @@
-The Personal Expense Tracker is a simple console-based Java application designed to help users record, view, search, and manage their daily expenses efficiently.
-It demonstrates practical use of Core Java concepts such as Object-Oriented Programming (OOP), File Handling, and Collections while providing a real-world use case suitable for beginners and students.
+# 💰 Personal Expense Tracker (Java Console App)
 
-Users can enter their daily spending details — category, amount, date, and notes — and the program saves the data in a text file (expenses.txt).
-The saved records can later be viewed, searched, or deleted directly from the console interface.
+A simple Java console project to manage daily expenses.
+
+## 📋 Features
+- Add new expenses
+- View all expenses
+- Search by category
+- Delete by ID
+- Data stored in text file (`expenses.txt`)
+
+## 🛠 Technologies
+- Java (OOP + File Handling)
+- No external libraries
+
+## 🚀 Run Instructions
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/ExpenseTracker.git
+   ```
+2. Open in any IDE (Eclipse, IntelliJ, or VS Code).
+3. Run `Main.java`.
+
+## 👨‍💻 Author
+**Amandeep (BCA Student)**
